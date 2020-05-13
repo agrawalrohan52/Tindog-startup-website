@@ -8,7 +8,7 @@ https://agrawalrohan52.github.io/Tindog-startup-website/
 ## Feature-section
 ![](https://github.com/agrawalrohan52/Tindog-startup-website/blob/master/Screenshots/feature-section.jpeg)
 ## Testimonial-section
-![](https://github.com/agrawalrohan52/Tindog-startup-website/blob/master/Screenshots/recommendation-section.jpeg)
+![](https://github.com/agrawalrohan52/Tindog-startup-website/blob/master/Screenshots/testimonial-section.jpeg)
 ## Pricing-section
 ![](https://github.com/agrawalrohan52/Tindog-startup-website/blob/master/Screenshots/pricing-section.jpeg)
 ## Download-and-footer-section
